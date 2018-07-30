@@ -6,3 +6,6 @@ http://www.wesa.fm/post/pittsburgh-s-trend-juvenile-arrests-explained-4-charts-a
 
 Data source:
 https://data.wprdc.org/dataset/arrest-data
+
+Jupyter notebook on nbviewer (so you can see the plotly plots):
+http://nbviewer.jupyter.org/github/ZacharyGoldstein/pgh-juvenile-arrests/blob/master/Arrest%20Data%20EDA.ipynb
