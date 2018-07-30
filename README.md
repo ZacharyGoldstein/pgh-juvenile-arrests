@@ -12,4 +12,4 @@ http://www.wesa.fm/post/pittsburgh-s-trend-juvenile-arrests-explained-4-charts-a
 Here is the source of the data on the WPRDC page:
 https://data.wprdc.org/dataset/arrest-data
 
-I also uploaded the original dataset, a modified dataset showing only juvenile arrests, and some still images of the plots.
+I also uploaded the original dataset, a modified dataset showing only juvenile arrests, the data dictionary, and some still images of the plots.
